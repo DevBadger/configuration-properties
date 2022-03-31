@@ -1,0 +1,3 @@
+properties:
+  property-sources:
+    global-env: application-dev.yaml

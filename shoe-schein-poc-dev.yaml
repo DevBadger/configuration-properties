@@ -1,0 +1,3 @@
+properties:
+  property-sources:
+    service-env: shoe-schein-poc.yaml
